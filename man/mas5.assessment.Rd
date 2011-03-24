@@ -1,0 +1,24 @@
+\name{mas5.assessment}
+\docType{data}
+\alias{mas5.assessment}
+\alias{mas5.assessment.133}
+\alias{mas5.assessment2}
+\alias{mas5.assessment2.133}
+
+\title{An example of the result of the assessments}
+\description{
+  The Dilution and both (HGU95 and HGU133) Spike-in cel files were
+  processed with Affymetrix MAS 5.0 software, and then the
+  functions \code{\link[affycomp]{assessAll}} and
+  \code{\link[affycomp]{assessSpikeIn2}} from the
+  affycomp package were applied.
+}
+\usage{data(mas5.assessment)
+data(mas5.assessment.133)
+data(mas5.assessment2)
+data(mas5.assessment2.133)
+}
+\format{A list of list.}
+
+
+\keyword{datasets}
