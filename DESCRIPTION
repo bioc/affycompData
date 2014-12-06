@@ -1,5 +1,5 @@
 Package: affycompData
-Version: 1.5.0
+Version: 1.5.1
 Title: affycomp data
 Author: Rafael A. Irizarry <rafa@jhu.edu> and Zhijin Wu
         <zwu@stat.brown.edu> with contributions from Simon Cawley
@@ -8,4 +8,4 @@ Maintainer: Harris Jaffee <hj@jhu.edu>
 Depends: R (>= 2.13.0), methods, Biobase (>= 2.3.3), affycomp
 Description: Data needed by the affycomp package.
 License: GPL (>= 2)
-biocViews: OneChannel, Microarray, Preprocessing
+biocViews: MicroarrayData
